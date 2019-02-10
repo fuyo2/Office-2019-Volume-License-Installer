@@ -1,0 +1,10 @@
+c:\users\jcole\source\repos\OfficeEasyInstaller\bin\Debug\OfficeEasyInstaller.exe.config
+c:\users\jcole\source\repos\OfficeEasyInstaller\bin\Debug\OfficeEasyInstaller.exe
+c:\users\jcole\source\repos\OfficeEasyInstaller\bin\Debug\OfficeEasyInstaller.pdb
+c:\users\jcole\source\repos\OfficeEasyInstaller\obj\Debug\OfficeEasyInstaller.csprojAssemblyReference.cache
+c:\users\jcole\source\repos\OfficeEasyInstaller\obj\Debug\OfficeEasyInstaller.Form1.resources
+c:\users\jcole\source\repos\OfficeEasyInstaller\obj\Debug\OfficeEasyInstaller.Properties.Resources.resources
+c:\users\jcole\source\repos\OfficeEasyInstaller\obj\Debug\OfficeEasyInstaller.csproj.GenerateResource.cache
+c:\users\jcole\source\repos\OfficeEasyInstaller\obj\Debug\OfficeEasyInstaller.csproj.CoreCompileInputs.cache
+c:\users\jcole\source\repos\OfficeEasyInstaller\obj\Debug\OfficeEasyInstaller.exe
+c:\users\jcole\source\repos\OfficeEasyInstaller\obj\Debug\OfficeEasyInstaller.pdb
